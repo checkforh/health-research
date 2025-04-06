@@ -1,6 +1,8 @@
-[README-indepth](README-indepth)
-[README-italian](README-italian)
-[README-indepth-italian](README-indepth-italian)
+[README-indepth](README-indepth.md)
+
+[README-italian](README-italian.md)
+
+[README-indepth-italian](README-indepth-italian.md)
 
 ### Personal Health Strategy & Resources
 
