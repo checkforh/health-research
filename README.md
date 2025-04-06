@@ -1,109 +1,126 @@
-Personal health plan done with:
-- notebooklm 
-- gemini deep search
-- youtube
-And with books:
-- Eat to beat disease
-- Toxic superfoods
-- alkaline herbal medicine
-- Good energy
-- The longevity nutrient
+### Personal Health Strategy & Resources
 
+This plan integrates insights derived from:
 
-Supplements I take everyday:
-- multi-vitamin: vitamin D is food inadequate and sun doesn't always shine. Vitamin B deficiency can have serious consequences. Minerals (potassium, magnesium, sodium, zinc) are necessary for disposal of oxalates.
-- spirulina and chlorella: good all rounder (omega3, antioxidants, detox), cheap, although not ideal assimilation because of cellulose
-- fish oil: just for omega3, make sure the brand cares about lasting storage, or buy in small amounts such that you are sure that the contents are fresh and not oxidized
-- red rice q10: for cholesterol
-- glycine: helps deep sleep, overall safe health boost
-- creatine and whey protein: everyday but on high work days an higher dose
-- Acetyl-L-Carnitine and taurine: help cognitive functions and neurons
-- propolis: benefits of honey without much sugar
-- methylene blue: improve metabolism
+* **Digital Tools:** NotebookLM, Gemini Deep Search, YouTube
+* **Literature:**
+    * *Eat to Beat Disease*
+    * *Toxic Superfoods*
+    * *Alkaline Herbal Medicine*
+    * *Good Energy* [cite: 779]
+    * *The Longevity Nutrient*
 
-Supplements I take infrequently:
-- beetroot extract: for liver and cardiovascular health. When I take it I take it for 3 days.
-- Vitamin B complex: when I eat very little animal based food, to compensate.
-- hydrolyzed collagen: skin and joints (I take one with type I,II,III,V,X), since high collagen does can cause high oxalates production, its better to take it only one days with very little animal based food (like vitamin B)
-- pre/pro biotics and colostrum: once per week, the day after high carb meal (e.g. pizza) to help microbiome
-- NAC: when I have pains or flu of anykind since it has anti-inflammatory effects
+---
 
-- mushroom complex: the body builds tolerance to most compounds found in mushrooms, so its better to take them on and off.
-- ashwaganda: best to cycle, since organism can build tolerance
-- l-theanine, ashwaganda: for their calming effects, cycle between each other
-- nootropic (brain complex): can have a bunch of mushrooms and roots, since its likely that most nootropics cause downregulation, only take it on occasion, on though days, whatever the complex, make sure it doesn't have caffeine and l-theanine (we try to avoid caffeine as much as possible, and l-theanine is on a different schedule).
+### Daily Supplement Regimen
 
-Detox:
-- clay: after food that is hard to digest (like high carbs, meat or fish), usually at midnight such that it is distant from any meal (i don't wake up on purpose, but if i wake up, i take it)
-- silymarin (milk thistle): of one month per year, on january or before summer
-- ceterach officinarium: 6 months after silymarin, such that you have 2 detox runs per year
+* **Multivitamin:** Addresses potential dietary inadequacies, particularly Vitamin D (given inconsistent sun exposure) and B vitamins (to prevent deficiencies with potentially serious consequences). Includes essential minerals (Potassium, Magnesium, Sodium, Zinc) which may aid in oxalate processing.
+* **Spirulina & Chlorella:** A cost-effective source of diverse nutrients (Omega-3s, antioxidants, detoxification support). Note: Cellulose content may affect optimal bioavailability.
+* **Fish Oil:** Primarily for Omega-3 intake. Prioritize brands focused on freshness and stability to prevent oxidation, or purchase smaller quantities frequently.
+* **Red Yeast Rice with CoQ10:** Targeted support for cholesterol management.
+* **Glycine:** Promotes deeper sleep and offers general, safe health benefits.
+* **Creatine & Whey Protein:** Daily intake, with increased dosage on high-exertion days.
+* **Acetyl-L-Carnitine & Taurine:** Support cognitive function and neuronal health.
+* **Propolis:** Provides benefits associated with honey, but with minimal sugar content.
+* **Methylene Blue:** Aims to enhance metabolic function.
 
-Brain:
-- Nasal spray of selank/semax: 1 month
-- Nasal spray of cortigen: 6 months after selank/semax
+---
 
-Metabolism:
-- Sleep is important, to follow circadian rhytms ensure sunlight in the morning, circadian rhytms help metabolism
-- short high stress excercise helps metabolism
-- Vitamins B1, B2, B6, B7 are important for metabolism
-- reduce stress to improve mitochondrial function
-- poor gut bacteria affects metabolism, prefer whole foods to processed foods, good bacteria produce short chain fatty acid, diet high in fiber is important for bacteria (prebiotics), fermented foods can reintroduce good bacteria (probiotics)
-- poor energy metaboism is at the root of many chronic diseases
-- keep your liver healthy as its crucial for good metabolism (low sugar/carbs, low alcohol)
-- micronutrients and antioxidants support mitochondrial function
-- sufficient protein intake is important for metabolic homeostasis
-- avoid Bad Energy Foods: Minimize refined added sugar, refined industrial vegetable and seed oils, and refined grains
-- Stabilize Blood Sugar through strategies like preloading meals with vinegar, non-starchy vegetables, fat, protein, and/or fiber before higher carbohydrate foods
-- Engage in Regular Movement, which improves mitochondrial health, glucose control, and overall metabolic biomarkers
-- Don't eat at least for 2 hours before bed time to avoid high heart rate.
-- Many pollutants from outdoor or indoor (cleaning products etc) can affect metabolism, minimize their usage by replacing with non industrial versions
-- carbs lower fat burning efficiency, a keto diet optimizes for fat burning, but cycling keto diet every once in a while with a more vegetables focused one
-- Metabolic stress can be linked to oxalate overload
-- Metabolic syndrome is also linked to oxalate issues
-- energy metabolism problems in brain cells can be promoted by oxalate
-- Hunger "cocktail": HTP-5, tryptophan, glucomannan, collagen and whey protein.
+### Intermittent Supplement Use
 
-Gadgets:
-- get a good chair for posture if work is sedentary (and use the correct posture)
-- get an ergonomic keyboard if typing a lot
-- Binaural beets and background sounds can help with focus (check mynoise.net or brain.fm)
-- a grounding mat connects the body to the earth magnetic field, put one on your bed to help sleep
-- red light lamp (or blanket): helps cell regenation, synergizes with methylene blue
-- hydrogen water bottle: helps detox
-- set color temperature of any screen to around 2000K-3000K, if not possible set color to "warm" or reduce greens and blues in favor of reds. Wear blue light protective glasses when exposed to artificial led light (which is likely maximized for brightness and not color temperature)
-- use a GCM (glucose monitor) to see how much the food (that you really want to eat but that are not healthy) affect your glucose level
-- scalar energy stickers and crystals (pseudo science): stickers (to be attached to electronic devices) capture nocive EM fields, crystals capture background radiation (or just look nice) 
-- faraday fabric: actually shields against EM radiation, EM insulation is something worth considering depending on living place
-- use a derma roller for face skin health
-- plasma mole remover for skin, cause surgeries are expensive
-- ablator for teeth cleaning (use once every 1-2 months)
-- use a enamel repair toothpaste, like biorepair, synodyne (protect and repair) or others (they feel "grainy" if you grind your teeth with the paste on them), they might have different active ingredients to accomplish the same thing
+* **Beetroot Extract:** Supports liver and cardiovascular health. Typically taken consecutively for 3 days when used.
+* **Vitamin B Complex:** Supplemented during periods of low animal-based food consumption to ensure adequate intake.
+* **Hydrolyzed Collagen (Types I, II, III, V, X):** Supports skin and joint health. Taken on days with minimal animal protein intake, as high collagen doses might increase oxalate production.
+* **Prebiotics/Probiotics & Colostrum:** Used once weekly, typically following a high-carbohydrate meal (e.g., pizza) to support microbiome balance.
+* **N-Acetylcysteine (NAC):** Utilized for its anti-inflammatory properties during instances of pain or flu-like symptoms.
+* **Mushroom Complex:** Cycled (taken intermittently) to prevent potential tolerance development to its various compounds.
+* **Adaptogens (Ashwagandha, L-Theanine):** Used for calming effects. Cycled individually or alternated to mitigate tolerance.
+* **Nootropic Complex:** Reserved for occasional use on mentally demanding days. Chosen formulation should exclude caffeine and L-Theanine (due to separate cycling schedules). Potential for downregulation suggests infrequent use is preferable.
 
-Good to know:
-- vitamin D generated from sun is still better, take sun whenever possible, plus sun heals.
-- Supplements can spoil or can have contaminants, check for quality whenver possible
-- eye sight can be improved through vision therapy (although unlikely to remove the need of glasses entirely)
-- cancer cells use glucose and glutamine as energy source
-- high fructose consumption is linked to alzheimer
-- eat slowly (15m) to allow body to fill full (release satiety hormones)
-- saliva is important for digestion, chew well enough
-- any food taken in high doses can cause adverse effects which negate its benefits
-- too much vitamin C can reduce body ability to dispose of free radicals
-- Certain growth hormone secretagogues may boost metabolism through the release of growth hormone
-- Peptides can improve insulin sensitivity, which is important for regulating blood sugar and preventing excessive fat storage
-- Regular monitoring of iron levels and lifestyle adjustments (diet, exercise, avoiding iron supplements, limiting vitamin C and alcohol) are important for managing iron overload, which can impact metabolic health
-- donating blood (2-3 times per year) can have potential positive health effects
-- blue light affect cyrcadian rhytms and metabolism, avoid blu lights
-- 1g of carbs is 4 calories, 1g of protein is less than 4 calories, 1g of fat is 9 calories
-- if you know the moisture content of food and their carbs/protein/fat ratio, you can guess their amount of calories, you don't have to be precise
+---
 
-Food:
-- The body has 5 systems to repair itself: angiogenesis (blood vessels), regeneration (stem cells), microbiome, dna protection and repair, immunity
-- food that influences all 5 systems: sunflower seeds, walnuts, seafood, squid ink, olive oil (evoo), dark chocolate
-- Recommended daily dosage of oxalates is 250mg, whatever you eat either as food or supplements, take this into consideration.
-- C15 is an anti-aging fatty acid, mostly found in dairy (with fats)
-- good nuts: almonds, walnuts pistachios, brazil nuts
-- bad nuts: peanuts, cashews, macadamia nuts, pine nuts
-- vegetables to avoid (oxalates): spinach, beets greens, swiss chard, amaranth leaves and grain, rhubarb, potatoes are ok only peeled
-- a keto diet targets less than 20 grams of carbs per day (less than 100 calories)
-- avoid plastic containers
+### Detoxification Protocols
+
+* **Bentonite Clay:** Consumed occasionally after meals perceived as difficult to digest (e.g., high-carb, heavy meat/fish). Ideally taken late at night if awake naturally, ensuring distance from meals.
+* **Silymarin (Milk Thistle):** One month annually (e.g., January or pre-summer).
+* **Ceterach Officinarum (Rustyback Fern):** Used approximately 6 months after the Silymarin cycle, establishing two detox periods per year.
+
+---
+
+### Cognitive Support Protocols
+
+* **Selank/Semax Nasal Spray:** Used for a 1-month period.
+* **Cortigen Nasal Spray:** Used for a 1-month period, approximately 6 months after the Selank/Semax cycle.
+
+---
+
+### Metabolic Health Strategy
+
+* **Prioritize Sleep & Circadian Rhythms:** Emphasize consistent sleep schedules. Morning sunlight exposure helps regulate circadian rhythms, positively impacting metabolism[cite: 1903].
+* **Incorporate High-Intensity Interval Training (HIIT):** Short bursts of intense exercise can positively influence metabolism.
+* **Ensure Adequate B Vitamin Intake:** Vitamins B1, B2, B6, and B7 are crucial for metabolic processes.
+* **Stress Management:** Reducing chronic stress benefits mitochondrial function[cite: 1408, 1411].
+* **Gut Health Optimization:** Poor gut bacteria composition can negatively affect metabolism[cite: 931]. Prioritize whole foods over processed options. Promote beneficial bacteria with high-fiber foods (prebiotics) and fermented foods (probiotics)[cite: 86, 87]. Recognize that suboptimal energy metabolism underlies many chronic diseases[cite: 777, 784].
+* **Liver Health:** Maintain liver health as it's crucial for metabolism (limit sugar/carbs, moderate alcohol).
+* **Micronutrients & Antioxidants:** Support mitochondrial function.
+* **Sufficient Protein Intake:** Important for metabolic homeostasis.
+* **Avoid "Bad Energy" Foods:** Minimize refined added sugars, industrial vegetable/seed oils, and refined grains[cite: 1417].
+* **Blood Sugar Stabilization:** Employ strategies like pre-loading meals with vinegar, non-starchy vegetables, fat, protein, or fiber before consuming higher carbohydrate foods.
+* **Regular Movement:** Improves mitochondrial health, glucose control, and metabolic biomarkers[cite: 1185, 1187]. Aim for consistent activity throughout the day.
+* **Meal Timing:** Avoid eating within 2 hours of bedtime to prevent elevated heart rate during sleep.
+* **Minimize Pollutant Exposure:** Reduce exposure to potential metabolic disruptors from outdoor air or indoor products (e.g., cleaning supplies) by choosing natural alternatives where possible.
+* **Carbohydrate Cycling:** Recognize that high carbohydrate intake can reduce fat-burning efficiency. Consider periodic ketogenic phases (optimizing fat burning) cycled with periods emphasizing whole vegetables.
+* **Oxalate Awareness:** Metabolic stress and syndrome can be linked to oxalate overload. Oxalates may also impact brain cell energy metabolism.
+* **Hunger Management Blend:** Consider a combination like 5-HTP, Tryptophan, Glucomannan, Collagen, and Whey Protein to manage hunger signals.
+
+---
+
+### Health-Supporting Gadgets & Environment
+
+* **Ergonomics:** Use a quality ergonomic chair and maintain correct posture for sedentary work. Employ an ergonomic keyboard for extensive typing.
+* **Auditory Focus Aids:** Utilize binaural beats or background sounds (e.g., mynoise.net, brain.fm) to enhance concentration.
+* **Grounding Mat:** Placed on the bed, aims to connect the body to the earth's electromagnetic field to potentially improve sleep. (Note: Scientific evidence for grounding is debated, unlike the established benefits of sunlight [cite: 1890-1893, 1895]).
+* **Red Light Therapy:** Lamp or blanket used to support cellular regeneration; may synergize with Methylene Blue.
+* **Hydrogen Water Bottle:** Intended to aid detoxification processes.
+* **Screen Light Management:** Adjust screen color temperatures to warmer tones (2000K-3000K) or reduce blue/green light. Wear blue-light filtering glasses when exposed to artificial LED lighting.
+* **Continuous Glucose Monitor (CGM):** Used periodically to understand the personal glycemic impact of specific foods, especially less healthy choices.
+* **Scalar Energy Devices/Crystals:** Stickers for electronic devices intended to mitigate electromagnetic fields (EMF); crystals for ambient radiation (or aesthetic value). (Considered pseudoscience by mainstream standards).
+* **Faraday Fabric:** Provides verifiable shielding against EMF radiation. Consider EMF insulation based on living environment assessment.
+* **Dermaroller:** Used for facial skin health maintenance.
+* **Plasma Mole Remover:** At-home device for skin tag/mole removal (alternative to costly procedures). Use with caution.
+* **Ultrasonic Tooth Cleaner:** For periodic (1-2 months) supplemental teeth cleaning.
+* **Enamel Repair Toothpaste:** Use brands like BioRepair, Sensodyne Repair & Protect, or similar formulations containing ingredients to remineralize enamel (often feel slightly grainy).
+
+---
+
+### General Health Knowledge & Considerations
+
+* **Sunlight Benefits:** Vitamin D synthesized via sun exposure is highly beneficial. Seek natural sunlight when possible for its broader healing effects[cite: 1895].
+* **Supplement Quality:** Be aware that supplements can degrade or contain contaminants. Verify quality control practices of brands whenever feasible.
+* **Vision Therapy:** Explore vision therapy as a potential adjunct for improving eyesight, though it may not eliminate the need for corrective lenses.
+* **Cancer Metabolism:** Note that cancer cells primarily utilize glucose and glutamine for energy.
+* **Fructose & Cognitive Health:** High fructose consumption has been linked to Alzheimer's disease risk.
+* **Mindful Eating:** Eat slowly (allow ~15 min) to enable satiety hormone release. Chew food thoroughly to aid digestion via saliva.
+* **Dosage Effects:** Any substance, even beneficial ones, can cause adverse effects if consumed in excessive doses. (Example: Very high Vitamin C intake might impair natural antioxidant defenses).
+* **Growth Hormone Secretagogues:** Certain compounds may influence metabolism via growth hormone release.
+* **Peptides & Insulin Sensitivity:** Some peptides may improve insulin sensitivity, aiding blood sugar regulation and fat storage management.
+* **Iron Management:** Regularly monitor iron levels. Manage potential overload (which impacts metabolic health) through diet, exercise, avoiding iron supplements unless necessary, and moderating Vitamin C and alcohol intake.
+* **Blood Donation:** Consider regular blood donation (2-3 times/year) for potential health benefits, including iron regulation.
+* **Blue Light Impact:** Minimize exposure to blue light, especially in the evening, as it disrupts circadian rhythms and metabolism[cite: 1181].
+* **Macronutrient Calories (Approximate):** Carbohydrates: ~4 kcal/g; Protein: <4 kcal/g; Fat: ~9 kcal/g.
+* **Calorie Estimation:** Approximate caloric content can be estimated from macronutrient ratios and moisture content, precise tracking isn't always necessary.
+
+---
+
+### Food Choices & Philosophy
+
+* **Body's Defense Systems:** Recognize the body's five core health defense systems: Angiogenesis, Regeneration (Stem Cells), Microbiome, DNA Protection, and Immunity[cite: 89].
+* **Foods Supporting Multiple Systems:** Include foods like sunflower seeds, walnuts, seafood, squid ink, extra virgin olive oil (EVOO), and dark chocolate that positively influence multiple defense systems[cite: 541, 542, 543].
+* **Oxalate Management:** Aim for a daily oxalate intake below ~250mg from all sources (food and supplements).
+* **C15:0 Fatty Acid:** An anti-aging fatty acid found primarily in full-fat dairy products[cite: 1720, 1721].
+* **Nut Selection:**
+    * **Preferred:** Almonds, Walnuts, Pistachios, Brazil nuts[cite: 1838].
+    * **Limit/Avoid (Higher Oxalate/Other Concerns):** Peanuts, Cashews, Macadamia nuts, Pine nuts.
+* **High-Oxalate Vegetables to Limit/Avoid:** Spinach, Beet Greens, Swiss Chard, Amaranth (leaves and grain), Rhubarb. Potatoes are generally acceptable if peeled.
+* **Ketogenic Diet Target:** Typically aims for <20g net carbohydrates daily (<100 calories).
+* **Food Storage:** Avoid storing or heating food in plastic containers.
