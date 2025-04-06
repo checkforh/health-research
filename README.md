@@ -1,3 +1,7 @@
+[README-indepth](README-indepth)
+[README-italian](README-italian)
+[README-indepth-italian](README-indepth-italian)
+
 ### Personal Health Strategy & Resources
 
 This plan integrates insights derived from:
