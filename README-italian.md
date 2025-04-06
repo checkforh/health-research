@@ -1,5 +1,3 @@
-Ecco la traduzione in italiano:
-
 ### Strategia e Risorse per la Salute Personale
 
 Questo piano integra conoscenze derivate da:
