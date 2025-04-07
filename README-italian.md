@@ -21,6 +21,7 @@ Questo piano integra conoscenze derivate da:
 * **Glicina:** Promuove un sonno più profondo e offre benefici generali e sicuri per la salute.
 * **Creatina & Proteine del Siero (Whey Protein):** Assunzione giornaliera, con dosaggio aumentato nei giorni di sforzo elevato.
 * **Acetil-L-Carnitina & Taurina:** Supportano la funzione cognitiva e la salute neuronale.
+* **N-Acetilcisteina (NAC):** Sebbene la cisteina sia essenziale per la produzione di glutatione, il suo assorbimento dal cibo è limitato.
 * **Propoli:** Fornisce benefici associati al miele, ma con contenuto minimo di zuccheri.
 * **Blu di Metilene:** Mira a migliorare la funzione metabolica.
 
@@ -32,7 +33,6 @@ Questo piano integra conoscenze derivate da:
 * **Complesso Vitaminico B:** Integrato durante periodi di basso consumo di alimenti di origine animale per garantire un apporto adeguato.
 * **Collagene Idrolizzato (Tipi I, II, III, V, X):** Supporta la salute della pelle e delle articolazioni. Assunto nei giorni con minimo apporto di proteine animali, poiché dosi elevate di collagene potrebbero aumentare la produzione di ossalati.
 * **Prebiotici/Probiotici & Colostro:** Usati una volta alla settimana, tipicamente dopo un pasto ricco di carboidrati (es. pizza) per supportare l'equilibrio del microbioma.
-* **N-Acetilcisteina (NAC):** Utilizzata per le sue proprietà antinfiammatorie in caso di dolore o sintomi simil-influenzali.
 * **Complesso di Funghi:** Assunto a cicli (intermittentemente) per prevenire il potenziale sviluppo di tolleranza ai suoi vari composti.
 * **Adattogeni (Ashwagandha, L-Teanina):** Usati per effetti calmanti. Assunti a cicli individualmente o alternati per mitigare la tolleranza.
 * **Complesso Nootropico:** Riservato per uso occasionale nei giorni mentalmente impegnativi. La formulazione scelta dovrebbe escludere caffeina e L-Teanina (a causa di schemi di ciclizzazione separati). Il potenziale di downregulation suggerisce che un uso infrequente sia preferibile.

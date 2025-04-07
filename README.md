@@ -27,6 +27,7 @@ This plan integrates insights derived from:
 * **Glycine:** Promotes deeper sleep and offers general, safe health benefits.
 * **Creatine & Whey Protein:** Daily intake, with increased dosage on high-exertion days.
 * **Acetyl-L-Carnitine & Taurine:** Support cognitive function and neuronal health.
+* **N-Acetylcysteine (NAC):** The body requires cysteine to produce glutathione, however, the assimilation of cysteine from foods is low.
 * **Propolis:** Provides benefits associated with honey, but with minimal sugar content.
 * **Methylene Blue:** Aims to enhance metabolic function.
 
@@ -38,7 +39,6 @@ This plan integrates insights derived from:
 * **Vitamin B Complex:** Supplemented during periods of low animal-based food consumption to ensure adequate intake.
 * **Hydrolyzed Collagen (Types I, II, III, V, X):** Supports skin and joint health. Taken on days with minimal animal protein intake, as high collagen doses might increase oxalate production.
 * **Prebiotics/Probiotics & Colostrum:** Used once weekly, typically following a high-carbohydrate meal (e.g., pizza) to support microbiome balance.
-* **N-Acetylcysteine (NAC):** Utilized for its anti-inflammatory properties during instances of pain or flu-like symptoms.
 * **Mushroom Complex:** Cycled (taken intermittently) to prevent potential tolerance development to its various compounds.
 * **Adaptogens (Ashwagandha, L-Theanine):** Used for calming effects. Cycled individually or alternated to mitigate tolerance.
 * **Nootropic Complex:** Reserved for occasional use on mentally demanding days. Chosen formulation should exclude caffeine and L-Theanine (due to separate cycling schedules). Potential for downregulation suggests infrequent use is preferable.
